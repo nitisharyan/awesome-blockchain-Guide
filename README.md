@@ -1,7 +1,8 @@
-https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
+- https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
+- https://onlinecourses.nptel.ac.in/noc18_cs47/preview
+- https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
 
-
-https://onlinecourses.nptel.ac.in/noc18_cs47/preview
+-----------------------------------
 
 <p align="center">
     <img src="./logo.jpeg"
