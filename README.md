@@ -1,6 +1,7 @@
 - https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
 - https://onlinecourses.nptel.ac.in/noc18_cs47/preview
 - https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
+- https://github.com/vaquarkhan/awesome-blockchain/tree/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/NPTEL%20-%20Blockchain%20-%20Lecture%20Transcripts
 - https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
 
 -----------------------------------
