@@ -3,6 +3,7 @@
 - https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
 - https://github.com/vaquarkhan/awesome-blockchain/tree/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/NPTEL%20-%20Blockchain%20-%20Lecture%20Transcripts
 - https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
+- https://aws.amazon.com/blogs/big-data/build-a-blockchain-analytic-solution-with-aws-lambda-amazon-kinesis-and-amazon-athena/
 
 -----------------------------------
 
