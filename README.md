@@ -1,13 +1,3 @@
-- https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
-- https://onlinecourses.nptel.ac.in/noc18_cs47/preview
-- https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
-- https://github.com/vaquarkhan/awesome-blockchain/tree/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/NPTEL%20-%20Blockchain%20-%20Lecture%20Transcripts
-- https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
-- https://aws.amazon.com/blogs/big-data/build-a-blockchain-analytic-solution-with-aws-lambda-amazon-kinesis-and-amazon-athena/
-- https://www.slideshare.net/SimonStone8/introduction-to-hyperledger-composer?next_slideshow=1
-
------------------------------------
-
 <p align="center">
     <img src="./logo.jpeg"
          height="130">
@@ -219,4 +209,15 @@
 |-|[2017年你为什么错过比特币？](https://mp.weixin.qq.com/s?__biz=MzIyNDk1NzU4OA==&amp;mid=2247484665&amp;idx=1&amp;sn=c0e3a0a9b72315065920f9aeeb4c144d&amp;chksm=e8064102df71c8148fc42b200e8b30276d0df8803bd1e3a18330bda3a13c46445aa8663b9d88&amp;mpshare=1&amp;scene=1&amp;srcid=1214THPGs7RcH0Q3VIqX4sMr#rd)|
 <br/>
 
+------------------------------------------------
+# Study material
 
+- https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
+- https://onlinecourses.nptel.ac.in/noc18_cs47/preview
+- https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
+- https://github.com/vaquarkhan/awesome-blockchain/tree/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/NPTEL%20-%20Blockchain%20-%20Lecture%20Transcripts
+- https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
+- https://aws.amazon.com/blogs/big-data/build-a-blockchain-analytic-solution-with-aws-lambda-amazon-kinesis-and-amazon-athena/
+- https://www.slideshare.net/SimonStone8/introduction-to-hyperledger-composer?next_slideshow=1
+- https://composer-playground.mybluemix.net/login
+- https://hyperledger.github.io/composer/v0.19/business-network/business-network-index
