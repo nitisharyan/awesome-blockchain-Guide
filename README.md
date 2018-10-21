@@ -221,3 +221,13 @@
 - https://www.slideshare.net/SimonStone8/introduction-to-hyperledger-composer?next_slideshow=1
 - https://composer-playground.mybluemix.net/login
 - https://hyperledger.github.io/composer/v0.19/business-network/business-network-index
+
+-----------------------------------
+
+- https://medium.com/moatcoin/part-1-blockchain-simplified-notes-nptel-71b876f5d300
+- https://medium.com/moatcoin/part-2-blockchain-simplified-notes-nptel-ff6c496a8cf
+- https://medium.com/moatcoin/part-3-blockchain-simplified-notes-nptel-bf7932387e46
+- https://medium.com/moatcoin/part-4-blockchain-simplified-notes-nptel-a66c51d7a79e
+- https://medium.com/moatcoin/part-5-blockchain-simplified-notes-nptel-9eadc5a4e5f8
+- https://medium.com/moatcoin/part-6-blockchain-simplified-notes-nptel-892f13875555
+
