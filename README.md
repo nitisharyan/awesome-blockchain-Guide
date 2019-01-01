@@ -221,6 +221,7 @@
 - https://www.slideshare.net/SimonStone8/introduction-to-hyperledger-composer?next_slideshow=1
 - https://composer-playground.mybluemix.net/login
 - https://hyperledger.github.io/composer/v0.19/business-network/business-network-index
+- https://101blockchains.com/eos-dapps-landscape-complete-list/
 
 -----------------------------------
 
@@ -231,3 +232,7 @@
 - https://medium.com/moatcoin/part-5-blockchain-simplified-notes-nptel-9eadc5a4e5f8
 - https://medium.com/moatcoin/part-6-blockchain-simplified-notes-nptel-892f13875555
 
+----------------------------------------
+
+https://github.com/itguruhaseeb/Blockchain/wiki/Creating-a-Simple-Blockchain
+https://github.com/itguruhaseeb/Blockchain?files=1
