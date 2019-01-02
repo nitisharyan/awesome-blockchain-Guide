@@ -191,10 +191,10 @@ to be continued
 
 <br/>
 
-## other
+
+## Other
 
 | Boutique Games | Boutique Articles |
-
 |--|--|
 | [Solidity online development] (https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.18+commit.9cf6e910.js) | [TED about the science block chain introductory video] (https ?: //weibo.com/tv/v/FzcPgFU1y fid = 1034: 01ea26af661b0e4bf56a63f6628fba57) |
 |[ETH Cat Game] ( https://www.cryptokitties.co/)|[Bitcoin Gene] ( https://mp.weixin.qq.com/s?__biz=MzIyNTY0MDM5OQ==&amp;mid= 2247483975 & amp; idx = 1 & amp; sn = bc0217c669b4089df132b4d4f2cf3768 & amp; chksm = e87de8e7df0a61f1126b772f228891d0c74b98c0d3d181a2ca80e892dfcede11f6fa36d47c89 # rd) |
@@ -214,6 +214,7 @@ to be continued
 |-|[Technology God "Cloud Wind" 2011 analysis of BTC] (https://blog.codingnow.com/2011/05/bitcoin.html)|
 | - | [long sword in 2011 investment advice (epic commentary)] (https://www.zhihu.com/question/19982269) |
 |-|[Why did you miss Bitcoin in 2017? ] (Https://mp.weixin.qq.com/s?__biz=MzIyNDk1NzU4OA==&amp;mid=2247484665&amp;idx=1&amp;sn=c0e3a0a9b72315065920f9aeeb4c144d&amp;chksm=e8064102df71c8148fc42b200e8b30276d0df8803bd1e3a18330bda3a13c46445aa8663b9d88&amp;mpshare=1&amp;scene=1&amp;srcid=1214THPGs7RcH0Q3VIqX4sMr #rd)|
+
 <br/>
 
 ------------------------------------------------
