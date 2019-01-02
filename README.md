@@ -44,24 +44,24 @@ to be continued
 |-|-|-|[BFC: The strongest currency big data website] (https://bitinfocharts.com/zh/)|
 <br/>
 
-## 交易所：走好第一步
+## Exchange: Take the first step
 
-|国内交易所|国外交易所|场外交易所|
+| Domestic Exchanges | Foreign Exchanges | OTC Exchanges |
 |--|--|--|
-|[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920)|[B网：美国知名头部数字货币平台](https://bittrex.com/)|[OTCBTC：体验最好的场外平台](https://otcbtc.com/referrals/OTCKING)|
-|[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[P网：成立于2014年的老牌山寨币平台](https://poloniex.com/)|[LocalBitcoins：全球最大场外平台](https://localbitcoins.com/)|
-|[比特儿：支持法币和各种分叉币 ](https://gate.io/signup/485240)|[Bithumb：韩国排名第一的交易平台](https://www.bithumb.com/)|[可盈可乐：支持场外的综合交易所](https://www.coincola.com/mobile/redpacket?ref=bnpm8imB)|
-|[OKEX：支持法币和期货](https://www.okex.com/)|[Hitbtc：英国领先的交易平台](https://hitbtc.com/)|[OKEX C2C：OKEX场外](https://www.okex.com/c2c/trade/trade.do)|
-|[EXX：可信赖的数字货币交易网 ](https://www.exx.com/r/c4c2539b9f192f47492a15b9afd8a8ea)|[KEX：可充值法币的韩国交易平台](https://www.kex.com/)|[火币 C2C：火币场外ZB ](https://otc.huobi.pro/)|
-|[KUCOIN：简单易用的数字货币交易网 ](https://www.kucoin.com/#/?r=E3lswr)|[EtherDelta：去中心化第一交易平台](https://etherdelta.com/)|[C2C：中比特场外](https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|
-|[ZB：国内老字号中比特合作平台 ](https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|[Liqui：乌克兰优秀的交易平台](https://liqui.io/)|[BitcoinWorld：比特币世界场外平台](https://bitcoinworld.com/register?referral=64597)|
-|[Bitfinex：经常世界第一的香港交易所](https://www.bitfinex.com/)|[Quoinex：日本最好的持照交易平台](https://quoinex.com/)|[LinkCoin：好用的场外交易平台](https://www.linkcoin.pro/)|
-|[AEX：比特时代海外版 ](https://www.aex.com/)|[BIT-Z：全球化数字货币交易平台](https://www.bit-z.com/)|-|
-|[ALLCOIN：澳大利亚上市公司交易所 ](https://www.allcoin.com/Account/RegisterByPhoneNumber/?InviteCode=MTQ2OTk4MDgwMDg5Mzgw)|[BitMex：总部位于塞舌尔的交易平台](https://www.bitmex.com/)|-|
-|[币赢网：坚挺支持法币的交易所 ](https://www.coinw.com/)|[CME：比特币期货平台](http://www.cmegroup.com/)|-|
-|[CEX：币久海外版](https://www.cex.com/)|-|-|
-|[BigOne：老猫掌管的币币交易所 ](https://big.one/)|-|-|
-|[CoinEgg：聚币国际版](https://www.coinegg.com/)|-|-|
+|[coin security: the best currency exchange] (https://www.binance.com/?ref=10113920)|[B: American well-known head digital currency platform] (https://bittrex. Com/)|[OTCBTC: Experience the best off-site platform] (https://otcbtc.com/referrals/OTCKING)|
+|[火币: reliable exchange] (https://www.huobi.pro/zh-cn/)|[P-Net: established in 2014, the old-style altcoin platform] (https://poloniex.com /)|[LocalBitcoins: the world's largest off-market platform] (https://localbitcoins.com/)|
+|[Bits: Support for French and various forks] (https://gate.io/signup/485240)|[Bithumb: Korea's #1 trading platform] (https://www.bithumb.com/ )|[可可可乐: Support for off-exchange comprehensive exchanges] (https://www.coincola.com/mobile/redpacket?ref=bnpm8imB)|
+|[OKEX: Support for French and Futures] (https://www.okex.com/)|[Hitbtc: The UK's leading trading platform] (https://hitbtc.com/)|[OKEX C2C: OKEX Off-site] (https://www.okex.com/c2c/trade/trade.do)|
+|[EXX: Trustworthy Digital Currency Trading Network] (https://www.exx.com/r/c4c2539b9f192f47492a15b9afd8a8ea)|[KEX: Korea Trading Platform for Rechargeable French Currency] (https://www.kex.com/ )|[Fire Coin C2C: Fire Coin Off-Zar] (https://otc.huobi.pro/)|
+|[KUCOIN: Easy to use digital currency trading network] (https://www.kucoin.com/#/?r=E3lswr)|[EtherDelta: Decentralized first trading platform] (https://etherdelta. Com/)|[C2C: Out-of-bit field] (https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|
+|[ZB: Domestic old-fashioned bit cooperation platform] (https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|[Liqui: Ukrainian excellent trading platform] (https://liqui.io/) |[BitcoinWorld: Bitcoin World OTC Platform] (https://bitcoinworld.com/register?referral=64597)|
+|[Bitfinex: The world's number one Hong Kong exchange] (https://www.bitfinex.com/)|[Quoinex: Japan's best licensed trading platform] (https://quoinex.com/)|[ LinkCoin: A good off-exchange trading platform] (https://www.linkcoin.pro/)|
+|[AEX: Bit Times Overseas Edition] (https://www.aex.com/)|[BIT-Z: Globalized Digital Currency Trading Platform] (https://www.bit-z.com/)|- |
+|[ALLCOIN: Australian listed company exchange] (https://www.allcoin.com/Account/RegisterByPhoneNumber/?InviteCode=MTQ2OTk4MDgwMDg5Mzgw)|[BitMex: Seychelles-based trading platform] (https://www. Bitmex.com/)|-|
+|[coin win network: an exchange that supports the legal currency] (https://www.coinw.com/)|[CME: Bitcoin Futures Platform] (http://www.cmegroup.com/)|-|
+|[CEX: Coin Long Overseas Edition](https://www.cex.com/)|-|-|
+|[BigOne: Coin Exchanges Managed by Old Cats] (https://big.one/)|-|-|
+|[CoinEgg: Coin International Edition] (https://www.coinegg.com/)|-|-|
 <br/>
 
 ## 媒体资讯：识媒体，看币圈
