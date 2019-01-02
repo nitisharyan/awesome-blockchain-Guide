@@ -22,26 +22,24 @@
 
 ## Ethereum Development Resources Summary
 
-[Web3.js, Solidity, Truffle tutorials and ETH development resources](https://github.com/dily3825002/awesome-ethereum)
+[Web3.js, Solidity, Truffle Tutorial and ETH Development Resources Summary] (https://github.com/dily3825002/awesome-ethereum)
 
-##Blockchain white paper
+## Blockchain White Paper
 
 Download the package body
-
 to be continued
-<br/>
-## Common must
-
+Tr
+## Common Essentials
 
 |Exchange | OTC Exchange | Information | Data Query |
-
-|--x--|--x--|--x--|--x--|
-|[coin security: the best currency exchange](https://www.binance.com/?ref=10113920) |[OTCBTC: Relying on the off-exchange currency trading website](https://otcbtc.com/referrals /OTCKING)|[MyToken: Simple Currency Quotes APP](http://mytoken.io/)|[Bitcoin Block Browser](https://btc.com/)|
+|--|--|--|--|
+|[coin security: the best currency exchange] (https://www.binance.com/?ref=10113920) |[OTCBTC: reliable off-exchange currency trading website] (https://otcbtc.com /referrals/OTCKING)|[MyToken: Simple Currency Quotes APP] (http://mytoken.io/)|[Bitcoin Block Browser] (https://btc.com/)|
 |[火币: reliable exchange] (https://www.huobi.pro/zh-cn/)|[OKEX: Exchanges supporting French and futures] (https://www.okex.com/ )|[Non-small: a powerful industry big data website] (http://www.feixiaohao.com/)|[Ethereum block browser] (https://etherscan.io/)|
 |[OKEX: Exchanges that support French and futures] (https://www.okex.com/)|[Bits: Support for French and various forks] (https://gate.io/signup/485240 )|[Golden Finance: Blockchain First Media] (http://jinse.com/)|[Forked Currency] (http://pieifo.com/)|
 |[Bits: Support for French and various forks] (https://gate.io/signup/485240)|-|[Babbit: Blockchain First Forum] (http://www.8btc. Com/)|[ICOROOT Project Review] (https://www.icoroot.com/)|
 |-|-|[Chain to Finance: Blockchain Information Service Platform](http://www.chainfor.com/)|[Ethernet Domestic Portal] (http://ethfans.org/)|
 |-|-|-|[BFC: The strongest currency big data website] (https://bitinfocharts.com/zh/)|
+
 <br/>
 
 ## Exchange: Take the first step
