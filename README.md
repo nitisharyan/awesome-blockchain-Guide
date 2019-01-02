@@ -36,12 +36,12 @@ to be continued
 |Exchange | OTC Exchange | Information | Data Query |
 
 |--|--|--|--|
-|[coin security: the best currency exchange](https://www.binance.com/?ref=10113920) |[OTCBTC: Relying on the off-exchange currency trading website](https://otcbtc.com/referrals/OTCKING)|[MyToken: Simple Currency Quotes APP](http://mytoken.io/)|[Bitcoin Block Browser](https://btc.com/)|
-|[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[OKEX：支持法币和期货的交易所](https://www.okex.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
-|[OKEX：支持法币和期货的交易所](https://www.okex.com/)|[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|[金色财经：区块链第一媒体](http://jinse.com/)|[分叉币大全 ](http://pieifo.com/)|
-|[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
-|-|-|[链向财经：区块链信息服务平台](http://www.chainfor.com/)|[以太坊国内门户网 ](http://ethfans.org/)|
-|-|-|-|[BFC：最强的币种大数据网站](https://bitinfocharts.com/zh/)|
+|[coin security: the best currency exchange](https://www.binance.com/?ref=10113920) |[OTCBTC: Relying on the off-exchange currency trading website](https://otcbtc.com/referrals /OTCKING)|[MyToken: Simple Currency Quotes APP](http://mytoken.io/)|[Bitcoin Block Browser](https://btc.com/)|
+|[火币: reliable exchange] (https://www.huobi.pro/zh-cn/)|[OKEX: Exchanges supporting French and futures] (https://www.okex.com/ )|[Non-small: a powerful industry big data website] (http://www.feixiaohao.com/)|[Ethereum block browser] (https://etherscan.io/)|
+|[OKEX: Exchanges that support French and futures] (https://www.okex.com/)|[Bits: Support for French and various forks] (https://gate.io/signup/485240 )|[Golden Finance: Blockchain First Media] (http://jinse.com/)|[Forked Currency] (http://pieifo.com/)|
+|[Bits: Support for French and various forks] (https://gate.io/signup/485240)|-|[Babbit: Blockchain First Forum] (http://www.8btc. Com/)|[ICOROOT Project Review] (https://www.icoroot.com/)|
+|-|-|[Chain to Finance: Blockchain Information Service Platform](http://www.chainfor.com/)|[Ethernet Domestic Portal] (http://ethfans.org/)|
+|-|-|-|[BFC: The strongest currency big data website] (https://bitinfocharts.com/zh/)|
 <br/>
 
 ## 交易所：走好第一步
