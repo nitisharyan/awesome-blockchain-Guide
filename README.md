@@ -17,18 +17,21 @@
     </a>
 </p>
 
-# 区块链资源汇总 
+# Blockchain resource summary
+ 
 
-## 以太坊开发资源汇总 
+## Ethereum Development Resources Summary
 
-[Web3.js、Solidity、Truffle教程及 ETH 开发资源汇总💯](https://github.com/dily3825002/awesome-ethereum)
+[Web3.js, Solidity, Truffle tutorials and ETH development resources](https://github.com/dily3825002/awesome-ethereum)
 
-## 区块链白皮书
+##Blockchain white paper
 
-下载包体即可
-待续
+Download the package body
+
+to be continued
 <br/>
-## 常用必备
+## Common must
+
 
 |交易所|场外交易所|资讯|数据查询|
 |--|--|--|--|
@@ -234,5 +237,5 @@
 
 ----------------------------------------
 
-https://github.com/itguruhaseeb/Blockchain/wiki/Creating-a-Simple-Blockchain
-https://github.com/itguruhaseeb/Blockchain?files=1
+- https://github.com/itguruhaseeb/Blockchain/wiki/Creating-a-Simple-Blockchain
+- https://github.com/itguruhaseeb/Blockchain?files=1
