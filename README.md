@@ -33,9 +33,10 @@ to be continued
 ## Common must
 
 
-|交易所|场外交易所|资讯|数据查询|
+|Exchange | OTC Exchange | Information | Data Query |
+
 |--|--|--|--|
-|[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920) |[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/OTCKING)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
+|[coin security: the best currency exchange](https://www.binance.com/?ref=10113920) |[OTCBTC: Relying on the off-exchange currency trading website](https://otcbtc.com/referrals/OTCKING)|[MyToken: Simple Currency Quotes APP](http://mytoken.io/)|[Bitcoin Block Browser](https://btc.com/)|
 |[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[OKEX：支持法币和期货的交易所](https://www.okex.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
 |[OKEX：支持法币和期货的交易所](https://www.okex.com/)|[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|[金色财经：区块链第一媒体](http://jinse.com/)|[分叉币大全 ](http://pieifo.com/)|
 |[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
