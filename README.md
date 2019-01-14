@@ -17,6 +17,50 @@
     </a>
 </p>
 
+
+
+----------------------------------------------------
+
+
+![Alt Text](https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/blockchain-works.jpeg)
+
+
+![Alt Text](https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/4-type%20of%20blockchain.jpeg)
+
+
+
+
+# Study material
+
+- https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
+- https://onlinecourses.nptel.ac.in/noc18_cs47/preview
+- https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
+- https://github.com/vaquarkhan/awesome-blockchain/tree/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/NPTEL%20-%20Blockchain%20-%20Lecture%20Transcripts
+- https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
+- https://aws.amazon.com/blogs/big-data/build-a-blockchain-analytic-solution-with-aws-lambda-amazon-kinesis-and-amazon-athena/
+- https://www.slideshare.net/SimonStone8/introduction-to-hyperledger-composer?next_slideshow=1
+- https://composer-playground.mybluemix.net/login
+- https://hyperledger.github.io/composer/v0.19/business-network/business-network-index
+- https://101blockchains.com/eos-dapps-landscape-complete-list/
+
+-----------------------------------
+
+- https://medium.com/moatcoin/part-1-blockchain-simplified-notes-nptel-71b876f5d300
+- https://medium.com/moatcoin/part-2-blockchain-simplified-notes-nptel-ff6c496a8cf
+- https://medium.com/moatcoin/part-3-blockchain-simplified-notes-nptel-bf7932387e46
+- https://medium.com/moatcoin/part-4-blockchain-simplified-notes-nptel-a66c51d7a79e
+- https://medium.com/moatcoin/part-5-blockchain-simplified-notes-nptel-9eadc5a4e5f8
+- https://medium.com/moatcoin/part-6-blockchain-simplified-notes-nptel-892f13875555
+
+----------------------------------------
+- https://www.youtube.com/watch?v=l8thvmmAAes
+- https://github.com/itguruhaseeb/Blockchain/wiki/Creating-a-Simple-Blockchain
+- https://github.com/itguruhaseeb/Blockchain?files=1
+
+
+
+
+----------------------------------------------------------------
 # Blockchain resource summary
  
 
@@ -217,37 +261,3 @@ Tr
 
 ------------------------------------------------
 
-![Alt Text](https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/blockchain-works.jpeg)
-
-
-![Alt Text](https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/4-type%20of%20blockchain.jpeg)
-
-
-
-
-# Study material
-
-- https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
-- https://onlinecourses.nptel.ac.in/noc18_cs47/preview
-- https://www.youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4
-- https://github.com/vaquarkhan/awesome-blockchain/tree/master/%E7%99%BD%E7%9A%AE%E4%B9%A6/NPTEL%20-%20Blockchain%20-%20Lecture%20Transcripts
-- https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
-- https://aws.amazon.com/blogs/big-data/build-a-blockchain-analytic-solution-with-aws-lambda-amazon-kinesis-and-amazon-athena/
-- https://www.slideshare.net/SimonStone8/introduction-to-hyperledger-composer?next_slideshow=1
-- https://composer-playground.mybluemix.net/login
-- https://hyperledger.github.io/composer/v0.19/business-network/business-network-index
-- https://101blockchains.com/eos-dapps-landscape-complete-list/
-
------------------------------------
-
-- https://medium.com/moatcoin/part-1-blockchain-simplified-notes-nptel-71b876f5d300
-- https://medium.com/moatcoin/part-2-blockchain-simplified-notes-nptel-ff6c496a8cf
-- https://medium.com/moatcoin/part-3-blockchain-simplified-notes-nptel-bf7932387e46
-- https://medium.com/moatcoin/part-4-blockchain-simplified-notes-nptel-a66c51d7a79e
-- https://medium.com/moatcoin/part-5-blockchain-simplified-notes-nptel-9eadc5a4e5f8
-- https://medium.com/moatcoin/part-6-blockchain-simplified-notes-nptel-892f13875555
-
-----------------------------------------
-- https://www.youtube.com/watch?v=l8thvmmAAes
-- https://github.com/itguruhaseeb/Blockchain/wiki/Creating-a-Simple-Blockchain
-- https://github.com/itguruhaseeb/Blockchain?files=1
