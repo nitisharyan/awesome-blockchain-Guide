@@ -216,6 +216,15 @@ Tr
 <br/>
 
 ------------------------------------------------
+
+![Alt Text](https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/blockchain-works.jpeg)
+
+
+![Alt Text](https://github.com/vaquarkhan/awesome-blockchain-Guide/blob/master/4-type%20of%20blockchain.jpeg)
+
+
+
+
 # Study material
 
 - https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html
