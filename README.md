@@ -239,6 +239,6 @@ Tr
 - https://medium.com/moatcoin/part-6-blockchain-simplified-notes-nptel-892f13875555
 
 ----------------------------------------
-
+- https://www.youtube.com/watch?v=l8thvmmAAes
 - https://github.com/itguruhaseeb/Blockchain/wiki/Creating-a-Simple-Blockchain
 - https://github.com/itguruhaseeb/Blockchain?files=1
